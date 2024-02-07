@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeventhFeb</string>
+    <string name="title_home">Вкладка 1</string>
+    <string name="title_dashboard">Вкладка 2</string>
+    <string name="title_notifications">Вкладка 3</string>
+    <string name="nastya">Вкладка 4</string>
+</resources>
